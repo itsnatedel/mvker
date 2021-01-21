@@ -3,12 +3,11 @@
 - 🔭 I’m currently working on mastering my back-end skills
 - 🌱 I’m currently learning : 
   - Angular
-  - NodeJS
   - Laravel
-  - C#
+  - C# (ASP .NET)
   - Java
-  - Python
-  - ASP .NET
+  - Python (Django)
+  - Ruby (Ruby On Rails)
 - 📫 How to reach me: 
   - [Github](https://github.com/mvker)
   - Email : nathandeltour2@gmail.com
