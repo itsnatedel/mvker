@@ -5,6 +5,7 @@
   - Laravel 8
   - C# (ASP .NET) + LINQ
   - Java
+  - PostgreSQL
   - Python (Django)
   - Ruby (Ruby On Rails)
 - 📫 How to reach me: 
