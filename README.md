@@ -2,9 +2,8 @@
 
 - 🔭 I’m currently working on mastering my back-end skills
 - 🌱 I’m currently learning : 
-  - Angular
-  - Laravel
-  - C# (ASP .NET)
+  - Laravel 8
+  - C# (ASP .NET) + LINQ
   - Java
   - Python (Django)
   - Ruby (Ruby On Rails)
